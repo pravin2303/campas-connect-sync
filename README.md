@@ -62,5 +62,5 @@ This system brings together **connectivity, productivity, and collaboration** �
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/campus-connect-sync.git
+[git clone https://github.com/pravin2303/campas-connect-sync.git]
 cd campus-connect-sync
