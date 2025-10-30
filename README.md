@@ -64,7 +64,9 @@ This system brings together **connectivity, productivity, and collaboration** â€
 ```bash
 [git clone https://github.com/pravin2303/campas-connect-sync.git]
 cd campus-connect-sync
+```
 
 ---
 
 Would you like me to **add the backend section (Node.js + MongoDB)** setup guide in the same README â€” so it becomes a **complete full-stack documentation**?
+
